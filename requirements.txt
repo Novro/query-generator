@@ -1,0 +1,3 @@
+pywebview
+pywebview[qt]
+auto-py-to-exe
